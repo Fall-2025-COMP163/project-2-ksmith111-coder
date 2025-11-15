@@ -145,3 +145,7 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+- 
+
+
+For this project, I added a few creative features to make my character system more unique, including extra character classes like Paladin and Archer, along with special abilities that go beyond the basic requirements. I also used AI to help structure my inheritance correctly, organize my class design, and add helpful comments that explain what each part of the code does. To run the program, simply save the file as a Python script, open it in any Python environment, and run it—this will execute the main section of the code, allowing you to test the character classes and see the battle system in action.
